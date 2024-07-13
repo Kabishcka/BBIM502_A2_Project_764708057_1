@@ -3,15 +3,15 @@
 # This is a Hotel management system function. 
 This hotel management system is developed to handle room allocation, billing, and the record management of the hotel rooms. The system is implemented using Python language. It provides functionalities to add, delete, and display rooms, allocate rooms, de-allocate rooms, and billing, save the allocations to files,and create a backup file for the allocation data. 
 # Features
-*Add room: Add a new room with basic details such as room ID, room type, and price. 
-*Delete room: Delete room using room ID
-*Display room details: Displays the details of the rooms in the system
-*Allocate room: Allocate an available room to a customer using their name and check-in date.
-*Display room allocation details: Displays the details of all the room allocations.
-*Billing and de-allocation: Calculates the bill for the stay by calculating the period of stay using the check-out date and check-in date. displays the billing details and de-allocates the room.
-*Save room allocations to file: Save all the current room allocations to a new file and name it 'LHMS_Studentid.txt'. 
-*Show room allocations from file: Displays all the room allocation details save in the file 'LHMS_Studentid.txt'.
-*Backup room Allocations file: Back up the room allocations file with a timestamp and clear the original file. 
+* Add room: Add a new room with basic details such as room ID, room type, and price. 
+* Delete room: Delete room using room ID
+* Display room details: Displays the details of the rooms in the system
+* Allocate room: Allocate an available room to a customer using their name and check-in date.
+* Display room allocation details: Displays the details of all the room allocations.
+* Billing and de-allocation: Calculates the bill for the stay by calculating the period of stay using the check-out date and check-in date. displays the billing details and de-allocates the room.
+* Save room allocations to file: Save all the current room allocations to a new file and name it 'LHMS_Studentid.txt'. 
+* Show room allocations from file: Displays all the room allocation details save in the file 'LHMS_Studentid.txt'.
+* Backup room Allocations file: Back up the room allocations file with a timestamp and clear the original file. 
 # How to operate the code. 
 * First you have to download Anaconda Navigator and open Jupyter Notebook. After signing in you have to go to the file option in the toolbar and select 'New', and then you have to select the 'Notebook' option there. After this, you have to select the kernel as Python 3 (ipykernel). After doing all these steps you will have a new Notebook ready for executing the given Python code.
 * In the new notebook you have to copy and paste the code shared in the GitHub repository. Then you can run the main script using shift+enter.
